@@ -12,6 +12,7 @@ There are both soldered and hotswap versions with several layout options.
 | Part        | Number      | Note |
 | :---        |    :----:   |          ---: |
 | Hotswap socket      | 46-48       | Not needed for soldered build   |
+| Choc Switches |46-48 |Choc v1 |
 | 1N4148   | 46-48        | DO-35      |
 | Headers  | 28 | 24 for PMs 4 for Oled |
 | Reset Switch | 1 | 6x6 smd switch |
