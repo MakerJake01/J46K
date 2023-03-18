@@ -21,3 +21,4 @@ There are both soldered and hotswap versions with several layout options.
 | O-Rings | 10 | |
 | M2x6 | 4 ||
 | M2x10 | 10 | |
+| PCB | 1 | |
